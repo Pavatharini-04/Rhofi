@@ -1,0 +1,42 @@
+[
+  {
+    "id":2,
+    "company_name":"Green Energy Solutions",
+    "symbol":"GREEN",
+    "issue_size":"\u20b9750 Cr",
+    "price_band":"\u20b9200-\u20b9210",
+    "open_date":1768867200000,
+    "close_date":1769126400000,
+    "listing_date":1769731200000,
+    "lot_size":"20 shares",
+    "min_investment":"",
+    "status":"Upcoming",
+    "face_value":"\u20b910",
+    "market_lot":20,
+    "retail_quota":"30%",
+    "hni_quota":"20%",
+    "source":"NSE India",
+    "scraped_at":1768124990330,
+    "last_updated":1768124990308
+  },
+  {
+    "id":1,
+    "company_name":"Tech Innovators Ltd",
+    "symbol":"TECHIN",
+    "issue_size":"\u20b9500 Cr",
+    "price_band":"\u20b9450-\u20b9465",
+    "open_date":1768435200000,
+    "close_date":1768694400000,
+    "listing_date":1769299200000,
+    "lot_size":"15 shares",
+    "min_investment":"",
+    "status":"Upcoming",
+    "face_value":"\u20b910",
+    "market_lot":15,
+    "retail_quota":"35%",
+    "hni_quota":"15%",
+    "source":"NSE India",
+    "scraped_at":1768124990305,
+    "last_updated":1768124990308
+  }
+]

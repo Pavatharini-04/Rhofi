@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "company_name":"MediCare Pharmaceuticals",
+    "symbol":"MEDICARE",
+    "issue_size":"\u20b9300 Cr",
+    "price_band":"\u20b9150-\u20b9155",
+    "open_date":1767571200000,
+    "close_date":1768003200000,
+    "listing_date":1768608000000,
+    "lot_size":"10 shares",
+    "min_investment":"\u20b915,000",
+    "status":"Open",
+    "face_value":"\u20b910",
+    "market_lot":10,
+    "retail_quota":"40%",
+    "hni_quota":"10%",
+    "source":"NSE India",
+    "scraped_at":1768124990330,
+    "last_updated":1768124990308
+  }
+]
